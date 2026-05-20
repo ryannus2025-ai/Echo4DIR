@@ -10,7 +10,7 @@
 
 ## 📋 Project Description
 
-Echo4DIR is a cutting-edge method for reconstructing 4D (3D+time) heart models from 2D echocardiography videos. This project presents novel techniques for implicit heart reconstruction using deep learning.
+Echo4DIR is a competitive method for reconstructing 4D (3D+time) heart models from 2D echocardiography videos. This project presents novel techniques for implicit cardiac reconstruction using deep learning.
 
 ### Key Features
 
