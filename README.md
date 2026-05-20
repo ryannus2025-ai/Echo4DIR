@@ -29,9 +29,9 @@ Echo4DIR is a cutting-edge method for reconstructing 4D (3D+time) heart models f
 
 ## 📌 Status
 
-⚠️ **Notice**: The source code for this project is **coming soon**. We are currently finalizing the code preparation for open-source release. 
+✅ **Paper Status**: Accepted by **MICCAI 2026** (Medical Image Computing and Computer-Assisted Intervention Conference)
 
-The following components will be available:
+The source code and additional resources will be released soon:
 
 - [ ] Training code
 - [ ] Inference pipeline
@@ -41,11 +41,26 @@ The following components will be available:
 
 ## 📖 Paper Information
 
-For more details about the method and results, please refer to our paper:
-
 **"Echo4DIR: 4D Implicit Heart Reconstruction from 2D Echocardiography Videos"**
 
-*[Full citation and link to be added]*
+**Authors:** Yanan Liu, Qinya Li, Hao Zhang, Kangjian He, Xuan Yang, Hao Li, Dan Xu, Lei Li
+
+**Conference:** MICCAI 2026
+
+### Citation
+
+If you find this work useful for your research, please cite it as:
+
+```bibtex
+@inproceedings{Liu2026Echo4DIR,
+  title={Echo4DIR: 4D Implicit Heart Reconstruction from 2D Echocardiography Videos},
+  author={Liu, Yanan and Li, Qinya and Zhang, Hao and He, Kangjian and Yang, Xuan and Li, Hao and Xu, Dan and Li, Lei},
+  booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2026},
+  pages={},
+  year={2026},
+  organization={Springer}
+}
+```
 
 ## 🔔 Stay Updated
 
@@ -55,11 +70,11 @@ Please watch this repository to get notified when the code is released!
 
 For questions and inquiries, please contact us at:
 
-- **e1728588@u.nus.edu**
-- **liuyanan@mail.ynu.edu.cn**
+- **e1728588@u.nus.edu** (Yanan Liu)
+- **liuyanan@mail.ynu.edu.cn** (Yanan Liu)
 
 ---
 
-**⏳ Release Expected**: Coming Soon
+**⏳ Code Release Expected**: Coming Soon
 
 Thank you for your interest in Echo4DIR!
