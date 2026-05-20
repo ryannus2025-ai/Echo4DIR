@@ -45,7 +45,10 @@ Please watch this repository to get notified when the code is released!
 
 ## 📞 Contact
 
-For questions and inquiries, please contact the project maintainers through the GitHub issues page.
+For questions and inquiries, please contact us at:
+
+- **e1728588@u.nus.edu**
+- **liuyanan@mail.ynu.edu.cn**
 
 ---
 
